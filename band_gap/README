@@ -1,0 +1,9 @@
+These codes will give the band gap 
+
+File:  gap_ispin_1.sh is for non-spin-polarized calculations 
+File:  gap_ispin_2.sh is for spin-polarized calculations (collinear)
+
+### USE as
+$  bash gap_ispin_1.sh OUTCAR
+
+$  bash gap_ispin_2.sh       ## in the folder where OSZICAR and OUTCAR files are available
