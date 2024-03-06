@@ -1,12 +1,12 @@
 #!/bin/sh
 ###############  Kedar Sharma ###################
-################  LOCPOT     ####################
+################  loc pot    ####################
 #################################################
 ## get planer average potential
 vaspkit << EOF 
 426
-3
-
+3      # 1, 2, 3 are used for planner averaged potential along x, y, z directions, respectively
+ 
 EOF
 
 ### get xlimit and ylimit

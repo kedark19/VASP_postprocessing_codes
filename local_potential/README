@@ -1,0 +1,8 @@
+This code will give the plot of averaged local potential 
+
+### USE as
+$  bash zlocpot_z.sh
+
+1. VASPKIT is used to extract the averaged local potential
+2. gnuplot code is used for the plot 
+
