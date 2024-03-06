@@ -1,0 +1,8 @@
+These files are used to plot partial density of states CoFe2O4 (8 f.u. with 56 atoms)
+
+zpdos_cfo_conv.sh: Bash scripting file extracts the DOS data using VASPKIT and use python code to plot.
+pdos_CFO_bulk.py: Python code to plot the DOS
+
+To run the code:  
+$ bash zpdos_cfo_conv.sh
+
